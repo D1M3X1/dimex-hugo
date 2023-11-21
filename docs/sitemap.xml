@@ -2,71 +2,71 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://dimex-mfg.com/products/example/</loc>
+    <loc>https://dimex-mfg.com/products/example/</loc>
     <lastmod>2020-06-23T12:33:45+10:00</lastmod>
   </url><url>
-    <loc>http://dimex-mfg.com/</loc>
+    <loc>https://dimex-mfg.com/</loc>
     <lastmod>2020-06-23T12:33:45+10:00</lastmod>
   </url><url>
-    <loc>http://dimex-mfg.com/products/</loc>
+    <loc>https://dimex-mfg.com/products/</loc>
     <lastmod>2020-06-23T12:33:45+10:00</lastmod>
   </url><url>
-    <loc>http://dimex-mfg.com/categories/</loc>
+    <loc>https://dimex-mfg.com/categories/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://dimex-mfg.com/tags/css/</loc>
+    <loc>https://dimex-mfg.com/tags/css/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://dimex-mfg.com/tags/html/</loc>
+    <loc>https://dimex-mfg.com/tags/html/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://dimex-mfg.com/tags/markdown/</loc>
+    <loc>https://dimex-mfg.com/tags/markdown/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://dimex-mfg.com/blog/markdown-syntax/</loc>
+    <loc>https://dimex-mfg.com/blog/markdown-syntax/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://dimex-mfg.com/blog/</loc>
+    <loc>https://dimex-mfg.com/blog/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://dimex-mfg.com/categories/syntax/</loc>
+    <loc>https://dimex-mfg.com/categories/syntax/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://dimex-mfg.com/tags/</loc>
+    <loc>https://dimex-mfg.com/tags/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://dimex-mfg.com/categories/themes/</loc>
+    <loc>https://dimex-mfg.com/categories/themes/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://dimex-mfg.com/tags/privacy/</loc>
+    <loc>https://dimex-mfg.com/tags/privacy/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://dimex-mfg.com/blog/rich-content/</loc>
+    <loc>https://dimex-mfg.com/blog/rich-content/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://dimex-mfg.com/tags/shortcodes/</loc>
+    <loc>https://dimex-mfg.com/tags/shortcodes/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://dimex-mfg.com/blog/placeholder-text/</loc>
+    <loc>https://dimex-mfg.com/blog/placeholder-text/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://dimex-mfg.com/tags/text/</loc>
+    <loc>https://dimex-mfg.com/tags/text/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://dimex-mfg.com/blog/math-typesetting/</loc>
+    <loc>https://dimex-mfg.com/blog/math-typesetting/</loc>
     <lastmod>2019-03-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://dimex-mfg.com/tags/emoji/</loc>
+    <loc>https://dimex-mfg.com/tags/emoji/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://dimex-mfg.com/blog/emoji-support/</loc>
+    <loc>https://dimex-mfg.com/blog/emoji-support/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://dimex-mfg.com/about/</loc>
+    <loc>https://dimex-mfg.com/about/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://dimex-mfg.com/contact/</loc>
+    <loc>https://dimex-mfg.com/contact/</loc>
   </url><url>
-    <loc>http://dimex-mfg.com/tags/index/</loc>
+    <loc>https://dimex-mfg.com/tags/index/</loc>
   </url>
 </urlset>
