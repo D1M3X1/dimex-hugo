@@ -1,6 +1,5 @@
 baseURL = "https://dimex-mfg.com"
-title = "Tella"
-author = "username"
+title = "Dimex"
 languageCode = "en"
 DefaultContentLanguage = "en"
 enableInlineShortcodes = true
@@ -19,23 +18,23 @@ enableRobotsTXT = true
 [params]
 
   showBlog = true
-  mainSections = ['blog']
+  mainSections = ['Blog']
 
   googleFonts = true
 
   [params.logo]
-    main = "img/logo/logo.svg"
-    alt = "Tella Logo"
+    alt = "Dimex Logo"
+    main = "img/logo/logo.png"
 
     # The size parameter is the class name of tailwindcss
     # https://tailwindcss.com/
     size = "h-14"
 
   [params.site]
-    name = "Tella"
+    name = "Dimex"
 
   [params.icon]
-    #If you want to use FontAwesome, set this parameter to true.
+    main = 'img/logo/favicon.ico'
     fontawesome = true
 
   [params.homepage_meta_tags]
@@ -43,11 +42,7 @@ enableRobotsTXT = true
     meta_og_title = "Tella"
     meta_og_type = "website"
     meta_og_url = "https://tella.pages.dev"
-    meta_og_image = "https://raw.githubusercontent.com/opera7133/tella/master/images/tn.png"
     meta_og_description = "A Hugo Theme for OSSProject, Companies, Organization..."
-    meta_twitter_card = "summary_large_image"
-    meta_twitter_site = "@username"
-    meta_twitter_creator = "@username"
 
 [menu]
 
@@ -79,10 +74,13 @@ enableRobotsTXT = true
   [[menu.footer]]
     name = "Home"
     url = "/"
-      weight = 1
+    weight = 1
 
   [[menu.footer]]
-    name = "Github"
-    url = "https://github.com/opera7133/tella"
-    pre = "<i class='icon-github text-2xl'></i>"
-      weight = 2
+    name = "We focus on 100 % optimizing our technical and human capabilities to meet the expectations of our clients and work team, generating continuous improvement through cutting-edge technology."
+    weight = 2
+
+  [[menu.footer]]
+    name = "Contact Us"
+    url = "/contact"
+    weight = 3

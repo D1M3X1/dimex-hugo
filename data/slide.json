@@ -1,11 +1,18 @@
 [
   {
-    "title": "Tella, A Hugo theme for Companies.",
-    "image": "img/slide/slide01.jpg"
+    "title": "Suppling the best solution in the market.",
+    "image": "img/slide/1.png"
   },
   {
-    "title": "Sample text here...",
-    "image": "img/slide/slide02.jpg",
-    "color": "text-black"
+    "title": "We pride ourselves of proving the highest Quality",
+    "image": "img/slide/3.png"
+  },
+  {
+    "title": "Wether it is Low or High Volume",
+    "image": "img/slide/2.png"
+  },
+  {
+    "title": "Give us the opportinity to help you",
+    "image": "img/slide/4.png"
   }
 ]
