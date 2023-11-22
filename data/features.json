@@ -1,18 +1,17 @@
 [
   {
-    "title": "Simple",
-    "description": "All the bare necessities are there.",
-    "icon": "icon-desktop_windows"
+    "title": "Quality",
+    "description": "We count with the best equipment to verify the tolerance is met",
+    "icon" : "icon-medal"
   },
   {
-    "title": "Fast",
-    "description": "Light weight and fast loading speed.",
+    "title": "Precision",
+    "description": "We have a dedicated team that will reach the tolerance and exactitud needed whether it is high or low volume.",
     "icon": "icon-lightbulb_outline"
   },
   {
-    "title": "Github",
-    "description": "Please fork the Github repository and contribute to this theme!",
-    "icon": "icon-github",
-    "link": "https://github.com/opera7133/tella"
+    "title": "excellent Customer Service",
+    "description": "Our sales team, is ready to help you find a solution",
+    "icon": "icon-github"
   }
 ]

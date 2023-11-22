@@ -8,3 +8,7 @@ img,
     vertical-align: bottom;
 
 }
+
+.icon-medal:before{
+  content: 'icon/medal.ico"'
+}

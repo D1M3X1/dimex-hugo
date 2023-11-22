@@ -2,10 +2,9 @@
 <html lang="en">
 
 <head>
-	<meta name="generator" content="Hugo 0.117.0">
 
 <meta charset="utf-8">
-<title>Dimex</title>
+<title>Dimex | Emoji Support</title>
 <meta name="viewport" content="width=device-width,initial-scale=1.0">
 <link rel="apple-touch-icon" sizes="180x180" href='/apple-touch-icon.png'>
 <link rel="icon" type="image/png" sizes="32x32" href='/favicon-32x32.png'>
@@ -20,22 +19,29 @@
 <link rel="stylesheet" href="/css/style.min.b9a767d69d3586ddb2edd18f33d78d804f370bfef9b1d7248e379dc7522a2f3d.css" />
 
 
-<link rel="stylesheet" href='/css/swiper-bundle.min.css'>
-
 <link href='/css/style.min.css' rel="stylesheet" type="text/css">
-<link rel="stylesheet" href='/css/custom.css'><meta name="description" content="A Hugo Theme for OSSProject, Companies, Organization..." />
-    <meta property="og:title" content="Tella" />
-    <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://tella.pages.dev" />
-    <meta property="og:image" content="" />
-    <meta property="og:description" content="A Hugo Theme for OSSProject, Companies, Organization..." />
-    <meta property="og:locale" content="en" />
-    <meta name="twitter:card" content="" />
-    <meta name="twitter:site" content="" />
-    <meta name="twitter:creator" content="" />
+<link rel="stylesheet" href='/css/custom.css'>
+
+<meta property="og:site_name" content="Dimex" />
+<meta property="og:title" content="Emoji Support | Dimex" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://dimex-mfg.com/products/products/" />
+<meta property="og:locale" content="en" />
+<meta name="twitter:card" content="summary_large_image">
+<meta property="twitter:title" content="Emoji Support">
+
+
+<meta property="og:image" content="https://dimex-mfg.com">
+
+<meta name="description" content="Guide to emoji usage in Hugo" />
+<meta property="og:description" content="Guide to emoji usage in Hugo" />
+<meta property="twitter:description" content="Guide to emoji usage in Hugo" />
+
+
 </head>
 
-<body><header>
+<body class="flex flex-col min-h-screen">
+  <main class="flex-grow"><header>
     <div id="overlay">
         <ul class="text-center list-none text-white text-3xl">
             
@@ -106,99 +112,57 @@
         </div>
     </nav>
 </header><div class="scroll-top rounded-full">
-        <span class="icon-keyboard_arrow_up text-2xl"></span>
-    </div><div class="swiper-container">
-    <div class="swiper-wrapper">
-        
-        <div class="swiper-slide">
-            <img src="img/slide/1.png" alt="">
-            <div class="s-fade-txt">
-                <h1 class="text-4xl text-white">Suppling the best solution in the market.</h1>
-            </div>
-        </div>
-        
-        <div class="swiper-slide">
-            <img src="img/slide/3.png" alt="">
-            <div class="s-fade-txt">
-                <h1 class="text-4xl text-white">We pride ourselves of proving the highest Quality</h1>
-            </div>
-        </div>
-        
-        <div class="swiper-slide">
-            <img src="img/slide/2.png" alt="">
-            <div class="s-fade-txt">
-                <h1 class="text-4xl text-white">Wether it is Low or High Volume</h1>
-            </div>
-        </div>
-        
-        <div class="swiper-slide">
-            <img src="img/slide/4.png" alt="">
-            <div class="s-fade-txt">
-                <h1 class="text-4xl text-white">Give us the opportinity to help you</h1>
-            </div>
-        </div>
-        
+      <span class="icon-keyboard_arrow_up text-2xl"></span>
     </div>
-    <div class="swiper-button-prev"></div>
-    <div class="swiper-button-next"></div>
-</div>
-<div class="bg-tlgray-200 py-6 md:py-10">
-    <div class="container mx-auto max-w-7xl">
-        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-3">
-            
-            
-                <div
-                    class="bg-white text-center mx-2 px-4 py-10 flex flex-row justify-center items-center duration-300 transform h-full hover:-translate-y-1 hover:shadow-lg">
-                    <div class="p-1">
-                        
-                        <span class="icon-medal text-5xl"></span>
-                        
-                        <h2 class="text-2xl">Quality</h2>
-                        <p class="sans">We count with the best equipment to verify the tolerance is met</p>
-                    </div>
-                </div>
-                
-            
-            
-                <div
-                    class="bg-white text-center mx-2 px-4 py-10 flex flex-row justify-center items-center duration-300 transform h-full hover:-translate-y-1 hover:shadow-lg">
-                    <div class="p-1">
-                        
-                        <span class="icon-lightbulb_outline text-5xl"></span>
-                        
-                        <h2 class="text-2xl">Precision</h2>
-                        <p class="sans">We have a dedicated team that will reach the tolerance and exactitud needed whether it is high or low volume.</p>
-                    </div>
-                </div>
-                
-            
-            
-                <div
-                    class="bg-white text-center mx-2 px-4 py-10 flex flex-row justify-center items-center duration-300 transform h-full hover:-translate-y-1 hover:shadow-lg">
-                    <div class="p-1">
-                        
-                        <span class="icon-github text-5xl"></span>
-                        
-                        <h2 class="text-2xl">excellent Customer Service</h2>
-                        <p class="sans">Our sales team, is ready to help you find a solution</p>
-                    </div>
-                </div>
-                
-            
-        </div>
-    </div>
+<div class="mx-auto my-10 max-w-6xl">
+  <div class="mx-3 col-span-3 lg:col-span-2 px-2">
+    <h1 class="title text-5xl mb-4">Emoji Support</h1>
+    <div class="content prose md:prose-lg lg:prose-xl max-w-none py-1"><p>Emoji can be enabled in a Hugo project in a number of ways.</p>
+<p>The <a href="https://gohugo.io/functions/emojify/"><code>emojify</code></a> function can be called directly in templates or <a href="https://gohugo.io/templates/shortcode-templates/#inline-shortcodes">Inline Shortcodes</a>.</p>
+<p>To enable emoji globally, set <code>enableEmoji</code> to <code>true</code> in your site&rsquo;s <a href="https://gohugo.io/getting-started/configuration/">configuration</a> and then you can type emoji shorthand codes directly in content files; e.g.</p>
+<!-- raw HTML omitted -->
+<p>The <a href="http://www.emoji-cheat-sheet.com/">Emoji cheat sheet</a> is a useful reference for emoji shorthand codes.</p>
+<hr>
+<p><strong>N.B.</strong> The above steps enable Unicode Standard emoji characters and sequences in Hugo, however the rendering of these glyphs depends on the browser and the platform. To style the emoji you can either use a third party emoji font or a font stack; e.g.</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-html" data-lang="html"><span style="display:flex;"><span>.emoji {
+</span></span><span style="display:flex;"><span>  font-family: Apple Color Emoji, Segoe UI Emoji, NotoColorEmoji, Segoe UI Symbol, Android Emoji, EmojiSymbols;
+</span></span><span style="display:flex;"><span>}</span></span></code></pre></div>
+
+<style>
+.emojify {
+	font-family: Apple Color Emoji, Segoe UI Emoji, NotoColorEmoji, Segoe UI Symbol, Android Emoji, EmojiSymbols;
+	font-size: 2rem;
+	vertical-align: middle;
+}
+@media screen and (max-width:650px) {
+  .nowrap {
+    display: block;
+    margin: 25px 0;
+  }
+}
+</style></div>
+  </div>
 </div>
 
-    <div class="mx-auto my-10 max-w-6xl">
-        <h2 class="text-4xl ml-2">Blog</h2>
+  </main><footer class="bg-tlgray-100">
+  
+  <script src='/js/clipboard.min.js'></script>
+  <script src='/js/highlight.min.js'></script>
+  <script src='/js/highlightjs-line-numbers.min.js'></script>
+  <script src='/js/sweetalert2.min.js'></script>
+  <script>
+    hljs.initHighlightingOnLoad();
+    hljs.initLineNumbersOnLoad();
+    new ClipboardJS('.url');
 
-<div class="flex flex-wrap justify-center text-gray-300 my-5">
-    <a href="blog/"
-        class="duration-200 px-6 py-3 bg-tlgray-800 hover:opacity-80 hover:text-white relative block focus:outline-none text-md text-center">
-        All Posts >
-    </a>
-</div></div>
-    <footer class="bg-tlgray-100">
+    function OnClickURL() {
+      Swal.fire({
+        icon: 'success',
+        title: 'Copied!',
+        text: 'Copied the URL and title.'
+      })
+    }
+  </script>
   
   <script>
     function toggleNav() {
@@ -255,24 +219,6 @@
     &copy; Dimex 2023 All Rights Reserved.
   </div>
 </footer>
-<script src="/js/swiper-bundle.min.js"></script>
-    <script>
-        var mySwiper = new Swiper(".swiper-container", {
-            direction: "horizontal",
-            loop: true,
-            speed: 550,
-            autoplay: {
-                delay: 6000,
-            },
-            pagination: {
-                el: ".swiper-pagination",
-            },
-            navigation: {
-                nextEl: ".swiper-button-next",
-                prevEl: ".swiper-button-prev",
-            },
-        });
-    </script>
 </body>
 
 </html>
