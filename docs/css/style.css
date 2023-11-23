@@ -78,7 +78,7 @@
   content: '\e90a';
 }
 .icon-lightbulb_outline:before {
-  content: '\e909';
+  content: '\e900';
 }
 .icon-price-tag:before {
   content: '\e935';
@@ -98,6 +98,7 @@
 .icon-github:before {
   content: '\eab0';
 }
+
 body {
   font-family: 'Montserrat', 'Noto Sans JP', sans-serif;
   font-weight: 300;

@@ -2,7 +2,7 @@
   {
     "title": "Quality",
     "description": "We count with the best equipment to verify the tolerance is met",
-    "icon" : "icon-medal"
+    "icon": "account"
   },
   {
     "title": "Precision",
@@ -10,7 +10,7 @@
     "icon": "icon-lightbulb_outline"
   },
   {
-    "title": "excellent Customer Service",
+    "title": "Excellent Customer Service",
     "description": "Our sales team, is ready to help you find a solution",
     "icon": "icon-github"
   }
