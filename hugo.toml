@@ -16,16 +16,14 @@ enableRobotsTXT = true
 #disqusShortname = ""
 
 [params]
-
+  favicon ="favicon.ico"
   showBlog = true
   mainSections = ['products']
-
   googleFonts = true
 
   [params.logo]
     alt = "Dimex Logo"
     main = "img/logo/logo.png"
-
     # The size parameter is the class name of tailwindcss
     # https://tailwindcss.com/
     size = "h-14"
@@ -34,7 +32,6 @@ enableRobotsTXT = true
     name = "Dimex"
 
   [params.icon]
-    main = 'img/favicon.png'
     fontawesome = false
 
 [menu]
