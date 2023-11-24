@@ -2,3 +2,18 @@
  This CSS file is used to override the existing styles of the theme.
  You can change the article headings, fonts, colors, etc.
 */
+
+.text-super {
+  font-size: 450%;
+  font-weight: bold;
+  text-align: center;
+  --tw-text-opacity: 1;
+  color: rgb(0 0 128 / var(--tw-text-opacity));
+  text-shadow: 2px 2px 4px #808080;
+}
+
+.center{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}

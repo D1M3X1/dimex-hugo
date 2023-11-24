@@ -2,16 +2,16 @@
   {
     "title": "Quality",
     "description": "We count with the best equipment to verify the tolerance is met",
-    "image": "img/slide/1.png"
+    "image": "icon/medal.ico"
   },
   {
     "title": "Precision",
     "description": "We have a dedicated team that will reach the tolerance and exactitud needed whether it is high or low volume.",
-    "icon": "icon-lightbulb_outline"
+    "image": "icon/laser-cutting.ico"
   },
   {
     "title": "Excellent Customer Service",
     "description": "Our sales team, is ready to help you find a solution",
-    "icon": "icon-github"
+    "image": "icon/customer-service.ico"
   }
 ]
