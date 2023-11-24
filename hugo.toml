@@ -34,15 +34,8 @@ enableRobotsTXT = true
     name = "Dimex"
 
   [params.icon]
-    main = 'img/logo/favicon.ico'
-    fontawesome = true
-
-  [params.homepage_meta_tags]
-    meta_description = "A Hugo Theme for OSSProject, Companies, Organization..."
-    meta_og_title = "Tella"
-    meta_og_type = "website"
-    meta_og_url = "https://tella.pages.dev"
-    meta_og_description = "A Hugo Theme for OSSProject, Companies, Organization..."
+    main = 'img/favicon.png'
+    fontawesome = false
 
 [menu]
 

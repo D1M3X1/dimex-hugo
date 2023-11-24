@@ -3,7 +3,7 @@
  You can change the article headings, fonts, colors, etc.
 */
 
-.text-super {
+.text-blue-600 {
   font-size: 450%;
   font-weight: bold;
   text-align: center;
@@ -12,7 +12,7 @@
   text-shadow: 2px 2px 4px #808080;
 }
 
-.center{
+.img{
   display: block;
   margin-left: auto;
   margin-right: auto;
