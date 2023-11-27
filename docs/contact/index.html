@@ -116,7 +116,7 @@
   <div class="mx-3 col-span-3 lg:col-span-2 px-2">
     <h1 class="title text-5xl mb-4">Contact</h1>
     <div class="content prose md:prose-lg lg:prose-xl max-w-none py-1"><p>To contact us, please fill out the form below.</p>
-<form name="contact" action="https://getform.io/" method="POST">
+<form name="contact" action="https://getform.io/f/11f60056-dbdd-42c9-8458-5e4999322f2b" method="POST" enctype="multipart/form-data">
     <div class="input">
         <input type="text" placeholder="Name" name="name" class="p-4 bg-gray-200 border border-gray-200 focus:outline-none focus:bg-white focus:border-gray-500" required>
     </div>
@@ -129,8 +129,15 @@
     <div class="input">
         <textarea rows="5" cols="30" placeholder="Message" name="message" class="p-4 bg-gray-200 border border-gray-200 focus:outline-none focus:bg-white focus:border-gray-500" required></textarea>
     </div>
-    <input type="submit" value="Submit" class="px-8 py-2 duration-200 bg-gray-800 text-white cursor-pointer transition-colors hover:bg-gray-400">
+    <textarea placeholder="Plese Provide documents if needed"></textarea>
+    <input type="file" name="file">
+ 
+    <input type="hidden" name="_gotcha" style="display:none !important">
+     <p>
+    <input  type="submit" value="Submit" class="px-8 py-2 duration-200 bg-gray-800 text-white cursor-pointer transition-colors hover:bg-gray-400">
+    </p>
 </form>
+
 </div>
   </div>
 </div>
