@@ -9,7 +9,7 @@ tags = [
 image = "img/walter2.jpg"
 +++
 
-Welcome to the pinnacle of precision with our 5-axis profiling capabilities at Dimex. Our state-of-the-art 5-axis profiler machine is a testament to our commitment to pushing the boundaries of what's achievable in precision machining.
+Dimex's 5-axis profiler redefines precision machining, enabling intricate component manufacturing with cutting-edge technology. Experience unparalleled accuracy at the forefront of advanced engineering.
 
 {{< figure src="/img/walter4.jpg" >}}
 
@@ -20,6 +20,8 @@ Our 5-axis profiler unlocks a new realm of precision. Unlike traditional 3-axis 
 ### Versatility in Machining:
 
 Experience the freedom to create without constraints. The 5-axis profiling machine at Dimex offers versatility in machining that goes beyond the ordinary. Whether it's intricate contours, multi-sided parts, or challenging angles, our 5-axis capabilities empower us to tackle the most complex projects with ease. This versatility translates into a more efficient and cost-effective production process for you.
+
+{{< figure src="/img/walter5.png" >}}
 
 ### Reduced Set-Up Times:
 
@@ -35,7 +37,7 @@ Our proficiency in 5-axis machining extends to optimized tool paths, ensuring th
 
 Experience the perfect marriage of form and function. Our 5-axis profiler excels in machining complex geometries while delivering impeccable surface finishes. This is particularly advantageous for industries where aesthetics and precision are equally crucial, such as aerospace, medical, and automotive.
 
-{{< figure src="/img/walter3.jpg" >}}
+{{< figure src="/img/walter3.jpg" style="row">}}
 
 ### Industries We Serve:
 

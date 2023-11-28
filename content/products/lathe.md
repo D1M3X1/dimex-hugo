@@ -11,7 +11,7 @@ tags = [
 image = "img/TORNO3.png"
 +++
 
-Welcome to a new era of precision manufacturing at Dimex. Our high-production CNC lathe services redefine efficiency and accuracy, delivering a superior solution for your high-volume machining needs.
+Enter a new era of precision manufacturing at Dimex, where our high-production CNC lathe services redefine efficiency and accuracy for your high-volume machining needs.
 
 ### Rapid Turnaround with High Efficiency:
 

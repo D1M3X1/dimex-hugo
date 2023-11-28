@@ -9,7 +9,7 @@ tags = [
 image = "img/EDM.jpg"
 +++
 
-Welcome to the cutting edge of precision machining at Dimex. Our EDM services redefine the possibilities with a specialized focus on thread machining and penetration capabilities. Unleash the power of Electrical Discharge Machining with us for intricate, high-precision components.
+Enter the realm of precision machining excellence at Dimex. Our specialized EDM services, emphasizing thread machining and penetration capabilities, empower the creation of intricate and high-precision components.
 
 ### Thread Machining Mastery:
 

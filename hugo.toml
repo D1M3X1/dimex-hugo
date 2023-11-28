@@ -3,7 +3,7 @@ title = "Dimex"
 languageCode = "en"
 DefaultContentLanguage = "en"
 enableInlineShortcodes = true
-theme = "tella"
+theme = ["tella", "hugo-snap-gallery"]
 enableRobotsTXT = true
 
 # Please enable this feature if the site is available in Japanese, Chinese or Korean.
@@ -52,6 +52,12 @@ googleAnalytics = "G-11F4RFR8HF"
     identifier = "contact"
     name = "Contact"
     url = "/contact/"
+    weight = 4
+
+  [[menu.main]]
+    identifier = "gallery"
+    name = "Gallery"
+    url = "/gallery/"
     weight = 4
 
   # Footer Menu
