@@ -38,7 +38,7 @@ googleAnalytics = "G-11F4RFR8HF"
 
   [[menu.main]]
     identifier = "products"
-    name = "products"
+    name = "Products"
     url = "/products/"
     weight = 1
 
