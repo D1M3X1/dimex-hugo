@@ -11,3 +11,9 @@
   color: rgb(0 0 128 / var(--tw-text-opacity));
   text-shadow: 2px 2px 4px #808080;
 }
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
