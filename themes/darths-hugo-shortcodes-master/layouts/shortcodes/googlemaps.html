@@ -15,14 +15,13 @@ Should also work with OpenStreetMap and other map providers, as no data is provi
 <div class="embed google map" style="text-align: center;">
 	<link rel="stylesheet" href="{{ "/css/googlemaps.css" | relURL }}" />
 	<a class="map" href="{{ .Get "url" }}" target="_blank" rel="noopener noreferrer" style="max-width: 100%;
-    width: 25rem;
-    height: 12.5rem;
-    background: url(/img/marker.svg) center calc(50% - 1rem) / auto 2rem no-repeat, url({{ .Get "img" }}) center center / cover no-repeat;
+    width: 100rem;
+    height: 16rem;
+    background: url({{ .Get "img" }}) center center / cover no-repeat;
     position: relative;
     display: block;">
 	<div class="button"></div>
 	<div class="button large">{{ if .Get "addr1" }}{{ .Get "addr1" }}{{ end }}<br><span>View on Google Maps</span></div>
-	<div class="label">{{if .Get "addr0" }}{{ .Get "addr0" }}{{ end }}, {{if .Get "addr1" }}{{ .Get "addr1" }}{{ end }}<br>{{if .Get "addr2" }}{{ .Get "addr2" }}{{ end }}</div>
 	</a>
 </div>
 
