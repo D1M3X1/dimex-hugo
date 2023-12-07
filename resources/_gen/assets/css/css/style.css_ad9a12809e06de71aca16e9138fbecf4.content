@@ -1516,6 +1516,10 @@ video {
   align-self: baseline;
 }
 
+.overflow-hidden {
+  overflow: hidden;
+}
+
 .overflow-clip {
   overflow: clip;
 }
