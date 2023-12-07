@@ -72,11 +72,8 @@ googleAnalytics = "G-11F4RFR8HF"
     url = "/"
     weight = 1
 
-  [[menu.footer]]
-    name = "We focus on 100 % optimizing our technical and human capabilities to meet the expectations of our clients and work team, generating continuous improvement through cutting-edge technology."
-    weight = 2
 
   [[menu.footer]]
     name = "Contact Us"
     url = "/contact"
-    weight = 3
+    weight = 2
